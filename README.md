@@ -83,5 +83,5 @@ python eren_tasdurmayli_goruntuisleme_vize.py
 
 **Ad Soyad:** Eren Taşdurmaylı  
 **E-posta:** erentss1091@gmail.com  
-**Teslim:** 25 Nisan 2025 - BL242 Görüntü İşleme Dersi Vize Projesi
+**Teslim:** 22 Nisan 2025 - BL242 Görüntü İşleme Dersi Vize Projesi
 
